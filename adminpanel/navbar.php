@@ -1,0 +1,25 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+        data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02"
+        aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></spam>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+            <ul class="navbar-nav me auto mb-2 mb-lg-0">
+                <li class="nav-item me-4">
+                    <b><a class="nav-link text-white" href="../adminpanel">Home</a></b>
+                </li>
+                <li class="nav-item me-4">
+                    <b><a class="nav-link text-white" href="katalog.php">Katalog</a></b>
+                </li>
+                <li class="nav-item me-4">
+                    <b><a class="nav-link text-white" href="tabel-pesanan.php">Transaksi Pesanan</a></b>
+                </li>
+                <li class="nav-item me-4">
+                    <b><a class="nav-link text-white" href="logout.php">Logout</a></b>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

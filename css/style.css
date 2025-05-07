@@ -1,0 +1,68 @@
+.warna1 {
+    background-color: #f8f0e3; /* Soft cream */
+}
+
+.warna2 {
+    background-color: black;
+}
+
+.warna3 {
+    background-color: rgb(67, 66, 66);
+}
+
+.warna4 {
+    background-color:rgb(130, 241, 156);
+}
+
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../image/banner.jpeg');
+    background-position: center;
+    background-size: cover;
+}
+
+.no-decoration {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.no-decoration:hover {
+    color:antiquewhite;
+}
+
+.text-harga{
+    font-size: 20px;
+    color:black;
+}
+
+.image-box {
+    height: 300px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe {
+    background-color: rgba(0,0,0,0.7);
+}
+
+.content-subscribe a {
+    color: #fff;
+}
+
+.banner2 {
+    height: 45vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../image/banner.jpeg');
+    background-position: 50% 35%;
+}
+
+.produk-terkait-image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
