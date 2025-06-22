@@ -49,8 +49,8 @@
                 </li>
             </ol>
         </nav>
-        <h2>JWP Wedding Organizer</h2>
-        <h3>Halo <?php echo $_SESSION['username']; ?></h3>
+        <h2></h2>
+        <h3> <?php echo $_SESSION['username']; ?></h3>
 
         <div class="container mt-5">
             <div class="row">
@@ -61,8 +61,8 @@
                                 <i class="fas fa-solid fa-boxes-stacked fa-7x text-black-50"></i>
                             </div>
                             <div class="col-6 text-white">
-                                <h3 class="fs-2">Katalog</h3>
-                                <p class="fs-4"><?php echo $jumlahKatalog; ?> Katalog</p>
+                                <h3 class="fs-2"></h3>
+                                <p class="fs-4"><?php echo $jumlahKatalog; ?> </p>
                                 <p><a href="katalog.php" class="text-white no-decoration">Lihat Detail</a></p>
                             </div>
                         </div>
@@ -76,8 +76,8 @@
                                     <i class="fas fa-solid fa-box-open fa-7x text-black-50"></i>
                                 </div>
                                 <div class="col-6 text-white">
-                                    <h4 class="fs-2">Pesanan</h4>
-                                    <p class="fs-4"><?php echo $jumlahPesanan; ?> Pesanan</p>
+                                    <h4 class="fs-2"></h4>
+                                    <p class="fs-4"><?php echo $jumlahPesanan; ?> </p>
                                     <p><a href="tabel-pesanan.php" class="text-white no-decoration">Lihat Detail</a></p>
                                 </div>
                             </div>

@@ -20,7 +20,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JWP Wedding Organizer | Katalog</title>
+    <title></title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -32,7 +32,7 @@
     <!-- banner -->
     <div class="container-fluid banner2 d-flex align-items-center">
         <div class="container">
-            <h1 class="text-white text-center">Katalog</h1>
+            <h1 class="text-white text-center"></h1>
         </div>
     </div>
 
@@ -43,12 +43,12 @@
                
             </div>
             <div class="col-lg-9">
-                <h3 class="text-center mb-3">Katalog</h3>
+                <h3 class="text-center mb-3"></h3>
                 <div class="row">
                     <?php
                         if($countData<1){
                     ?>
-                        <h4 class="text-center my-5">Katalog yang anda cari tidak tersedia</h4>
+                        <h4 class="text-center my-5">cari tidak tersedia</h4>
                     <?php
                         }
                     ?>

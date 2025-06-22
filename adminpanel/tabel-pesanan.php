@@ -11,7 +11,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JWP Wedding Organizer/Katalog</title>
+    <title></title>
     <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="../fontawesome/css/fontawesome.min.css">
 </head>
@@ -29,7 +29,7 @@
 <body>
         <?php require "navbar.php"; ?>
         <div>
-            <h2>Tabel Pesanan</h2>
+            <h2>Tabel</h2>
 
             <div class="table-responsive">
                 <table class="table">

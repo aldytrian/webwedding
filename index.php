@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JWP Wedding Organizer | Home</title>
+    <title>Home</title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -25,7 +25,7 @@
     <!-- katalog -->
     <div class="container-fluid py-5">
         <div class="container text-center">
-            <h3>Katalog</h3>
+            <h3></h3>
 
             <div class="row mt-5">
                 <?php while($data = mysqli_fetch_array($queryKatalog)){ ?>
@@ -51,14 +51,9 @@
     <!-- tentang kami -->
     <div class="container-fluid warna4 py-5">
         <div class="container text-center">
-            <h3>Tentang Kami</h3>
+            <h3></h3>
             <p class="fs-6 mt-3">
-            Selamat datang di JWP Wedding Organizer, tempat di mana impian pernikahan Anda menjadi kenyataan. Dengan pengalaman bertahun-tahun, 
-            tim kami yang berdedikasi memastikan setiap detail sempurna, mulai dari perencanaan hingga pelaksanaan. Kami menawarkan layanan yang 
-            dipersonalisasi sesuai dengan gaya dan preferensi unik Anda, memastikan perayaan yang bebas stres dan berkesan. Misi kami adalah 
-            menciptakan momen tak terlupakan yang mencerminkan kisah cinta Anda. Percayakan pada kami untuk menghadirkan keanggunan, kreativitas, 
-            dan profesionalisme pada hari istimewa Anda. Terima kasih telah memilih AL Wedding Organizer – mitra Anda dalam merangkai pernikahan 
-            yang indah.
+            
             </p>
         </div>
     </div>

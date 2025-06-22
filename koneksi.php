@@ -1,5 +1,5 @@
 <?php
-    $con = mysqli_connect("localhost","root","","db_wedding");
+    $con = mysqli_connect("localhost","root","","db_toko");
 
     // Check connection
     if (mysqli_connect_errno()) {

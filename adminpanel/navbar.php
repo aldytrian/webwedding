@@ -11,10 +11,10 @@
                     <b><a class="nav-link text-white" href="../adminpanel">Home</a></b>
                 </li>
                 <li class="nav-item me-4">
-                    <b><a class="nav-link text-white" href="katalog.php">Katalog</a></b>
+                    <b><a class="nav-link text-white" href="katalog.php"></a></b>
                 </li>
                 <li class="nav-item me-4">
-                    <b><a class="nav-link text-white" href="tabel-pesanan.php">Transaksi Pesanan</a></b>
+                    <b><a class="nav-link text-white" href="tabel-pesanan.php"></a></b>
                 </li>
                 <li class="nav-item me-4">
                     <b><a class="nav-link text-white" href="logout.php">Logout</a></b>

@@ -19,7 +19,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JWP Wedding Organizer/Katalog</title>
+    <title></title>
     <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="../fontawesome/css/fontawesome.min.css">
 </head>
@@ -46,13 +46,13 @@
                     </a>
                 </li>
                 <li class="breadcrumb-item active" aria-current="page">
-                    <i class="fas fa-solid fa-box-open fa text-black-50"></i> Katalog
+                    <i class="fas fa-solid fa-box-open fa text-black-50"></i> 
                 </li>
             </ol>
         </nav>
 
         <div class="my-5 col-12 col-md-6">
-            <h3>Tambah Katalog</h3>
+            <h3></h3>
 
             <form action="" method="post" enctype="multipart/form-data">
                 <div>
@@ -144,7 +144,7 @@
                             if ($queryTambah->execute()) {
             ?>
                                 <div class="alert alert-primary mt-3" role="alert">
-                                    Katalog Berhasil Disimpan
+                                    Berhasil Disimpan
                                 </div>
 
                                 <meta http-equiv="refresh" content="1; url=katalog.php" />
@@ -159,7 +159,7 @@
         </div>
 
         <div class="mt-3 mb-5">
-            <h2>List Katalog</h2>
+            <h2>List</h2>
 
             <div class="table-responsive mt-5">
                 <table class="table">
@@ -179,7 +179,7 @@
                             if ($jumlahKatalog == 0) {
                         ?>
                                 <tr>
-                                    <td colspan="4" class="text-center">Data Katalog tidak tersedia</td>
+                                    <td colspan="4" class="text-center">Data tidak tersedia</td>
                                 </tr>
                         <?php
                             } else {

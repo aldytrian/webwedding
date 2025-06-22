@@ -8,13 +8,13 @@
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
             <ul class="navbar-nav me auto mb-2 mb-lg-0">
                 <li class="nav-item me-4">
-                    <b><a class="nav-link text-dark" href="index.php">JWP Wedding Organizer</a></b>
+                    <b><a class="nav-link text-dark" href="index.php">Home</a></b>
                 </li>
                 <li class="nav-item me-4">
-                    <b><a class="nav-link text-dark" href="about-us.php">Tentang Kami</a></b>
+                    <b><a class="nav-link text-dark" href="about-us.php"></a></b>
                 </li>
                 <li class="nav-item me-4">
-                    <b><a class="nav-link text-dark" href="katalog.php">Katalog</a></b>
+                    <b><a class="nav-link text-dark" href="katalog.php"></a></b>
                 </li>
             </ul>
         </div>

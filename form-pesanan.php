@@ -22,7 +22,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JWP Wedding Organizer | Detail Katalog</title>
+    <title></title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -53,7 +53,7 @@
 
     <div class="container-fluid py-5 mb-3 my-5 col-12 col-md-6">
         <div class="container">
-            <div class="row">Transfer ke Bank BCA 7651122159 - Aldy Trian Prayogi
+            <div class="row">Transfer
     <form action="" method="post" enctype="multipart/form-data">
                 <div>
                     <label for="nama">Nama</label>
@@ -103,7 +103,7 @@
                     if($nama=='' || $nomor_telepon=='' || $email==''){
             ?>
                         <div class="alert alert-warning mt-3" role="alert">
-                            Nama, nomor telepon dan email wajib diisi
+                            wajib diisi
                         </div>
             <?php
                     }
@@ -136,7 +136,7 @@
                         if($queryTambah){
             ?>
                             <div class="alert alert-primary mt-3" role="alert">
-                                Pemesanan Berhasil
+                                Berhasil
                             </div>
                             <meta http-equiv="refresh" content="5; url=katalog.php" />
             <?php
